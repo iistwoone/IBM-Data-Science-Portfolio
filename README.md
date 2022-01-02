@@ -1,1 +1,1 @@
-# ibm_coursera_capstone_pythons
+# ibm_coursera_projects
